@@ -1,6 +1,6 @@
-# testapp1
+# TestApp1
 
-A new Flutter project.
+A new Flutter project. Playing around with listviews and navigation
 
 ## Getting Started
 
